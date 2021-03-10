@@ -1,6 +1,6 @@
 <?php
-define ("NAMA", "Kevin Gilbert Toding ");
-define ("NILAI", 90);
+define ("NAMA", "Alief Gibran M H ");
+define ("NILAI", 85);
 echo "Nama : " . NAMA;
 echo "<br>Nilai : " . NILAI;
 ?>
