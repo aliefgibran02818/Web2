@@ -1,8 +1,8 @@
 <?php
-$nim = "A22.2020.02832";
-$nama = 'Kevin Gilbert Toding';
-$umur = 20;
-$nilai = 82.25;
+$nim = "A22.2020.02818";
+$nama = 'Alief Gibran M H';
+$umur = 18;
+$nilai = 84;
 $status = TRUE;
 echo "NIM : " . $nim . "<br>";
 echo "Nama : $nama<br>";
